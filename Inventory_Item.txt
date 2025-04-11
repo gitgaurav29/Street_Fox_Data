@@ -4,3 +4,14 @@ Bluetooth Speaker	$39.95
 Stainless Steel Water Bottle	$18.49
 Portable Power Bank	$25.99
 LED Desk Lamp	$22.89
+Item Name	Price (USD)
+Wireless Earbuds	$59.99
+Bluetooth Speaker	$39.95
+Stainless Steel Water Bottle	$18.49
+Portable Power Bank	$25.99
+LED Desk Lamp	$22.89
+Yoga Mat	$29.99
+Reusable Grocery Bags (Set of 5)	$14.99
+Smartphone Tripod	$19.99
+Notebook (Hardcover, A5)	$9.99
+Coffee Maker (Single Serve)	$49.99
