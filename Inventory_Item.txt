@@ -1,6 +1,2 @@
 Item Name	Price (USD)
 Wireless Earbuds	$59.99
-Bluetooth Speaker	$39.95
-Stainless Steel Water Bottle	$18.49
-Portable Power Bank	$25.99
-LED Desk Lamp	$22.89
